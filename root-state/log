@@ -1,0 +1,9 @@
+2017-08-17T15:23:54,232: [listener] Watchman 4.7.0 <no build info set> starting up on Davids-MBP.hsd1.fl.comcast.net
+2017-08-17T15:23:54,233: [listener] failed to parse json from /Users/davidcastaneda/Documents/mango2018-app/mango-app/root-state/state: unable to open /Users/davidcastaneda/Documents/mango2018-app/mango-app/root-state/state: No such file or directory
+2017-08-17T15:23:54,233: [listener] file limit is 256 kern.maxfilesperproc=10240
+2017-08-17T15:23:54,233: [listener] raised file limit to 10240
+2017-08-17T15:23:54,233: [listener] Using socket from launchd as listening socket
+2017-08-17T15:23:56,842: [client=0x7fb74a8000a0:stm=0x7fb74a800080] path /Users/davidcastaneda/Documents/mango2018-app/mango-app is on filesystem type hfs
+2017-08-17T15:23:56,842: [client=0x7fb74a8000a0:stm=0x7fb74a800080] root /Users/davidcastaneda/Documents/mango2018-app/mango-app using watcher mechanism fsevents (auto was requested)
+2017-08-17T15:23:57,597: [io /Users/davidcastaneda/Documents/mango2018-app/mango-app] PERF: {"ru_nivcsw": 145, "meta": {"root": {"case_sensitive": false, "ticks": 2, "path": "/Users/davidcastaneda/Documents/mango2018-app/mango-app", "recrawl_count": 0, "number": 1, "watcher": "fsevents"}}, "start_time": 1502997836.8435299, "pid": 20641, "description": "full-crawl", "ru_msgrcv": 1, "ru_majflt": 0, "ru_msgsnd": 1, "ru_ixrss": 0, "version": "4.7.0", "system_time": 0.40823399999999999, "elapsed_time": 0.753776, "ru_idrss": 0, "user_time": 0.315913, "ru_maxrss": 27688960, "ru_inblock": 176, "ru_minflt": 6764, "ru_nswap": 0, "ru_oublock": 1, "ru_nsignals": 0, "ru_nvcsw": 176}
+2017-08-17T15:23:57,597: [io /Users/davidcastaneda/Documents/mango2018-app/mango-app] crawl complete
