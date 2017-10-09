@@ -1,4 +1,4 @@
-  #Mango 2018 App
+  # Mango 2018 App
   
   `yarn start`
     Starts the development server so you can open your app in the Expo
