@@ -9,7 +9,7 @@
   run
   `yarn install`
   
-  ## Useage
+  ## Usage
 
   `yarn start`
     Starts the development server so you can open your app in the Expo
